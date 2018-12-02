@@ -77,18 +77,28 @@ Quickly arrange and resize windows in common configurations, using keyboard shor
 
 Use <kbd>control</kbd> + <kbd>s</kbd> to turn on Window Layout Mode. Then, use any shortcut below to make windows do your bidding. For example, to send the window left, hit <kbd>control</kbd> + <kbd>s</kbd>, and then hit <kbd>h</kbd>.
 
-- Use <kbd>h</kbd> to send window left (left half of screen)
-- Use <kbd>j</kbd> to send window down (bottom half of screen)
 - Use <kbd>k</kbd> to send window up (top half of screen)
+- Use <kbd>j</kbd> to send window down (bottom half of screen)
+
+- Use <kbd>h</kbd> to send window left (left half of screen)
 - Use <kbd>l</kbd> to send window right (right half of screen)
-- Use <kbd>shift</kbd> + <kbd>h</kbd> to send window to left 40% of screen
-- Use <kbd>shift</kbd> + <kbd>l</kbd> to send window to right 60% of screen
+- Use <kbd>4</kbd> to send window to left 40% of screen
+- Use <kbd>6</kbd> to send window to right 60% of screen
+- Use <kbd>3</kbd> to send window to left 30% of screen
+- Use <kbd>7</kbd> to send window to right 70% of screen
+- Use <kbd>2</kbd> to send window to left 20% of screen
+- Use <kbd>8</kbd> to send window to right 80% of screen
+- Use <kbd>1</kbd> to send window to left 10% of screen
+- Use <kbd>9</kbd> to send window to right 90% of screen
+
 - Use <kbd>i</kbd> to send window to upper left quarter of screen
 - Use <kbd>o</kbd> to send window to upper right quarter of screen
 - Use <kbd>,</kbd> to send window to lower left quarter of screen
 - Use <kbd>.</kbd> to send window to lower right quarter of screen
+
 - Use <kbd>space</kbd> to send window to center of screen
 - Use <kbd>enter</kbd> to resize window to fill the screen
+
 - Use <kbd>n</kbd> to send window to the next monitor
 - Use <kbd>←</kbd> to send window to the monitor on the left (if there is one)
 - Use <kbd>→</kbd> to send window to the monitor on the right (if there is one)
