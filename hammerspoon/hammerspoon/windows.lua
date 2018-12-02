@@ -188,6 +188,82 @@ function hs.window.right60(win)
   win:setFrame(f)
 end
 
+----------------自定义宽度------------------------
+function hs.window.left30(win)
+  local f = win:frame()
+  local screen = win:screen()
+  local max = screen:frame()
+
+  f.x = max.x
+  f.y = max.y
+  f.w = max.w * 0.3
+  f.h = max.h
+  win:setFrame(f)
+end
+
+function hs.window.left20(win)
+  local f = win:frame()
+  local screen = win:screen()
+  local max = screen:frame()
+
+  f.x = max.x
+  f.y = max.y
+  f.w = max.w * 0.2
+  f.h = max.h
+  win:setFrame(f)
+end
+
+function hs.window.left10(win)
+  local f = win:frame()
+  local screen = win:screen()
+  local max = screen:frame()
+
+  f.x = max.x
+  f.y = max.y
+  f.w = max.w * 0.1
+  f.h = max.h
+  win:setFrame(f)
+end
+---
+---
+function hs.window.right70(win)
+  local f = win:frame()
+  local screen = win:screen()
+  local max = screen:frame()
+
+  f.x = max.w * 0.3
+  f.y = max.y
+  f.w = max.w * 0.7
+  f.h = max.h
+  win:setFrame(f)
+end
+
+function hs.window.right80(win)
+  local f = win:frame()
+  local screen = win:screen()
+  local max = screen:frame()
+
+  f.x = max.w * 0.2
+  f.y = max.y
+  f.w = max.w * 0.8
+  f.h = max.h
+  win:setFrame(f)
+end
+
+function hs.window.right90(win)
+  local f = win:frame()
+  local screen = win:screen()
+  local max = screen:frame()
+
+  f.x = max.w * 0.1
+  f.y = max.y
+  f.w = max.w * 0.9
+  f.h = max.h
+  win:setFrame(f)
+end
+
+--------------------- 自定义宽度-----------------------------------
+
 function hs.window.nextScreen(win)
   local currentScreen = win:screen()
   local allScreens = hs.screen.allScreens()
