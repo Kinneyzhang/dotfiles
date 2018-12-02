@@ -140,15 +140,19 @@ Hyper Mode ships with the default keybindings below, but you'll likely want to p
 
 #### Default app keybindings
 
-- <kbd>hyper</kbd> + <kbd>a</kbd> to open iTunes ("A" for "Apple Music")
-- <kbd>hyper</kbd> + <kbd>b</kbd> to open Google Chrome ("B" for "Browser")
-- <kbd>hyper</kbd> + <kbd>c</kbd> to open Slack ("C for "Chat")
-- <kbd>hyper</kbd> + <kbd>d</kbd> to open [Remember The Milk](https://www.rememberthemilk.com/) ("D" for "Do!" ... or "Done!")
-- <kbd>hyper</kbd> + <kbd>e</kbd> to open [Atom](https://atom.io) ("E" for "Editor")
+- <kbd>hyper</kbd> + <kbd>a</kbd> to open Android Studio
+- <kbd>hyper</kbd> + <kbd>b</kbd> to open BaiduNetdisk
+- <kbd>hyper</kbd> + <kbd>c</kbd> to open QQ ("C for "Chat")
+- <kbd>hyper</kbd> + <kbd>d</kbd> to open Adobe Dreamweaver CC 2017
+- <kbd>hyper</kbd> + <kbd>e</kbd> to open [Emacs](https://www.gnu.org/software/emacs/) ("E" for "Editor")
 - <kbd>hyper</kbd> + <kbd>f</kbd> to open Finder ("F" for "Finder")
-- <kbd>hyper</kbd> + <kbd>g</kbd> to open [Mailplane](http://mailplaneapp.com/) ("G" for "Gmail")
-- <kbd>hyper</kbd> + <kbd>s</kbd> to open [Slack](https://slack.com/downloads/osx) ("S" for "Slack")
+- <kbd>hyper</kbd> + <kbd>g</kbd> to open Google Chrome
+- <kbd>hyper</kbd> + <kbd>i</kbd> to open iTunes
+- <kbd>hyper</kbd> + <kbd>m</kbd> to open QQ Music
+- <kbd>hyper</kbd> + <kbd>p</kbd> to open System Preferences
+- <kbd>hyper</kbd> + <kbd>s</kbd> to open Safari
 - <kbd>hyper</kbd> + <kbd>t</kbd> to open [iTerm2](https://www.iterm2.com/) ("T" for "Terminal")
+- <kbd>hyper</kbd> + <kbd>y</kbd> to open YouTube
 
 ### Miscellaneous goodness
 
