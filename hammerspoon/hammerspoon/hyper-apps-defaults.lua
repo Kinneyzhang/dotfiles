@@ -13,6 +13,7 @@ return {
   { 'i', 'iTunes' },
   { 'm', 'QQ Music' },
   { 'g', 'Google Chrome' },
+  { 'o', 'OmniFocus'},
   { 'p', 'System Preferences' },
   { 's', 'Safari' },
   { 't', 'iTerm' },
