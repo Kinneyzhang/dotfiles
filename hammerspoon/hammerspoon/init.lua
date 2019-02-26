@@ -1,9 +1,9 @@
 local log = hs.logger.new('init.lua', 'debug')
 
 -- Use Control+` to reload Hammerspoon config
-hs.hotkey.bind({'ctrl'}, '`', nil, function()
-  hs.reload()
-end)
+-- hs.hotkey.bind({'ctrl'}, '`', nil, function()
+--  hs.reload()
+-- end)
 
 keyUpDown = function(modifiers, key)
   -- Un-comment & reload config to log each keystroke that we're triggering
@@ -34,10 +34,10 @@ end
 require('keyboard.control-escape')
 require('keyboard.delete-words')
 require('keyboard.hyper')
-require('keyboard.markdown')
+-- require('keyboard.markdown')
 require('keyboard.microphone')
 require('keyboard.panes')
 require('keyboard.super')
-require('keyboard.windows')
+-- require('keyboard.windows')
 
 hs.notify.new({title='Hammerspoon', informativeText='Ready to rock 🤘'}):send()

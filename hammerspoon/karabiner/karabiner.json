@@ -143,6 +143,14 @@
                             "to": {
                                 "key_code": "backslash"
                             }
+                        },
+                        {
+                            "from": {
+                                "key_code": "left_control"
+                            },
+                            "to": {
+                                "key_code": "caps_lock"
+                            }
                         }
                     ]
                 },
